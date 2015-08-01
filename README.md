@@ -43,13 +43,13 @@ It exists here only for didactic reasons insofar as **to show how easy and power
 P.S. - I'll add some info about getting up and running on Heroku soon. In the mean time, just dl the [Heroku Toolbelt](https://toolbelt.heroku.com/) and figure it out. I believe in you!
 
 
-##Pro Tip: New GitHub Repos from the Command Line
+##ProTip: New GitHub Repos from the Command Line
 
 **Have you ever noticed how difficult it is to create a new GitHub repo from the command line?**
 
-You got your cat food delivery service app set up with Git locally by running `git init`. Sweet! Uh-oh though... now you want to **push your local app to a brand new GitHub repo**. Yeah, you can go to GitHub.com and make a new one, but that sorta sucks after a while.
+You got your cat food delivery service app set up with Git locally by running `git init`. Sweet! Uh-oh though... now you want to **push your new local Git repo to a brand new GitHub repo**. Yeah, you can go to GitHub.com and make a new one, but that sorta sucks after a while.
 
-Long story short, **here's a BASH script that'll automate the process of creating a new GitHub repo from the command line** with instructions to get you up and running. (This gem of a code snippet is [based almost entirely on this guy's trick](http://viget.com/extend/create-a-github-repo-from-the-command-line, "CHYEAH!!!").
+Long story short, **here's a BASH script that'll automate the process of creating a new GitHub repo from the command line** with instructions to get you up and running. (This super-cool code snippet is [based almost entirely on this guy's trick](http://viget.com/extend/create-a-github-repo-from-the-command-line, "CHYEAH!!!").)
 
 ###The Meat
 
