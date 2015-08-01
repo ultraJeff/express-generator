@@ -139,7 +139,7 @@ Now you don't have to run these commands `--global`ly and you don't have to name
 
 You got all the config done, now send shockwaves through your command line by issuing this line of code
 
-  source ~/.bash_profile
+    source ~/.bash_profile
   
 AHHSOME! Now create a new directory folder as explained above in the **express-generator** section and once you're at the root, simply type
   `github-create`
