@@ -127,11 +127,11 @@ Got it? Great! Moving on.
 
 Add your GitHub username, token, and tokentype (either **http** or **ssh**) to your global `git config` like so...
 
-```bash
-git config --global github.user <your_username_here>
-git config --global github.token <your_token_here>
-git config --global github.tokentype <your_tokentype_here>
-```
+    git config --global github.user <your_username_here>
+    
+    git config --global github.token <your_token_here>
+    
+    git config --global github.tokentype <your_tokentype_here>
 
 Now you don't have to run these commands `--global`ly and you don't have to namespace the variables with `github.*` but it's useful! (Is it safe? ...Probably? Just don't somehow add your .gitconfig to your public repo.)
 
